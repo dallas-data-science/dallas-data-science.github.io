@@ -1,0 +1,25 @@
+---
+title: "<br><center>Dallas Data Science Collection</center>"
+output: 
+  html_document:
+    highlight: textmate
+    theme: lumen
+---
+
+```{r, include = F}
+knitr::opts_chunk$set(dev = 'svg')
+packages <- c("tidyverse", "kableExtra", "icon")
+xfun::pkg_attach2(packages, message = F)
+```
+
+<hr>
+<br>
+<center>
+```{r, echo=F}
+tribble(~"Title", ~"Author(s)", ~"Type", ~"Link",
+        "Git & GitHub Tutorial for Scientists:
+It’s Not Only for Programmers", "Michaela Chan & Ekarin Pongpipat", "eBook", "https://gitbookdown.dallasdatascience.com/") %>%
+  kable() %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
+```
+</center>
