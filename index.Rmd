@@ -15,7 +15,7 @@ h1.title {
 
 ```{r, include = F}
 knitr::opts_chunk$set(dev = 'svg')
-packages <- c("tidyverse", "kableExtra", "icon")
+packages <- c("tidyverse", "kableExtra", "icon") # icon is not on CRAN, devtools::install_github("ropenscilabs/icon")
 xfun::pkg_attach2(packages, message = F)
 ```
 
@@ -25,7 +25,8 @@ xfun::pkg_attach2(packages, message = F)
 ```{r, echo=F}
 tribble(~"Title", ~"Author(s)", ~"Type", ~"Link",
         "Git & GitHub Tutorial for Scientists:
-It’s Not Only for Programmers", "Micaela Chan & Ekarin Pongpipat", "eBook", "https://gitbookdown.dallasdatascience.com/") %>%
+It’s Not Only for Programmers", "Micaela Chan & Ekarin Pongpipat", "eBook", "https://gitbookdown.dallasdatascience.com/",
+        "Texas Counties COVID Trend", "Micaela Chan", "Dashboard", "https://tx-covid-trend.dallasdatascience.com/")%>%
   kable() %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
 ```

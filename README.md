@@ -1,1 +1,3 @@
-# dallas-data-science.github.io
+# dallasdatascience.com 
+
+Temp website listing collecitons of data scienc relatede projects.
