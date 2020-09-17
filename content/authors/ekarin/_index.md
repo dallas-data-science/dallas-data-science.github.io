@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- Researchers
+- Contributors
 ---
 
 Ekarin is a Ph.D. student studying cognitive neuroscience at the University of Texas at Dallas. He is primarly interested in understanding the relationship between brain networks and cognition and how this relationship can change as we age and for different groups of individuals (e.g., disease-disorder states and genetic predispositions). He is also interested in statistics, research methods, intuitive data visualization, open source, and open science.

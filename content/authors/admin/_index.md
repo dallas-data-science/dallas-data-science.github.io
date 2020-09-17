@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- Researchers
+- Contributors
 ---
 
 Miaela Chan a cognitive neuroscientist at the the Center for Vital Longevity, with  Ph.D. in Cognition and Neuroscience at the The University of Texas at Dallas. Her research focuses on how experiences and environment interacts with the brain’s functional network organization. her recent work showcases how socioeconomic status moderates the aging of functional brain network (published in PNAS). 
