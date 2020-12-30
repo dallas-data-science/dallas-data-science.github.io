@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial | Dallas Data Science</title>
-    <link>/tag/tutorial/</link>
-      <atom:link href="/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dallasdatascience.com/tag/tutorial/</link>
+      <atom:link href="https://dallasdatascience.com/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <description>tutorial</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dallasdatascience.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>tutorial</title>
-      <link>/tag/tutorial/</link>
+      <link>https://dallasdatascience.com/tag/tutorial/</link>
     </image>
     
     <item>
       <title>Git &amp; GitHub Tutorial for Scientists</title>
-      <link>/project/gitbookdown/</link>
+      <link>https://dallasdatascience.com/project/gitbookdown/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/gitbookdown/</guid>
+      <guid>https://dallasdatascience.com/project/gitbookdown/</guid>
       <description>&lt;p&gt;The goal of this tutorial is to help scientists with no formal programming background to (1) start using git locally for version-control of your code, and (2) begin using GitHub to share your code and collaborate with others.&lt;/p&gt;
 </description>
     </item>
