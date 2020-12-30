@@ -30,7 +30,9 @@ url_video: ""
 slides: ""
 ---
 
-This a daily-updated summary of COVID-19 (1) new cases and (2) positive test rate of Dallas County, TX. A similar summary is made for Texas to enable quick comparison to state-level stats. For other visualization at the state-level (e.g., infection rate), check out https://covidactnow.org/us/tx/
+https://mychan24.shinyapps.io/covid_texas_county_trend_shiny/
+
+This a daily-updated shiny dahsboard summary of COVID-19 (1) new cases and (2) positive test rate of Dallas County, TX. A similar summary is made for Texas to enable quick comparison to state-level stats. For other visualization at the state-level (e.g., infection rate), check out https://covidactnow.org/us/tx/
 
 ## Data
 Data are downloaded from https://dshs.texas.gov/coronavirus/additionaldata/
